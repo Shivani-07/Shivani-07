@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivani-07
 - 👀 I’m interested in Cloud Computing and Physics :)
 - 🌱 I’m currently learning Software Design and Computer Security.
-- 💞️ I’m looking to collaborate on team work.
+- 💞️ I’m looking to collaborate on CS Projects.
 - 📫 How to reach me ...
 
 <!---
